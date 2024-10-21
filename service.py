@@ -17,7 +17,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 #使用登录后cookie下载视频有更高的清晰度
-cookie = "buvid3=6F3D3E00-9BA4-C8A7-D410-97E6E30138D752529infoc; b_nut=1707920652; _uuid=E71106777-3FA3-8B3D-6321-36108A4107ACB953914infoc; buvid4=8B7B7393-394D-6C29-9893-E766A381899853139-024021414-rJ8uw8VkvBkHvKnjYV6XM%2FOU0w2PGXKFPVyLkUlXsLo0LoF3WQKm8s%2BUJamrlXCg; buvid_fp=29cd466042237b91b91925a751a33aaa; enable_web_push=DISABLE; header_theme_version=CLOSE; CURRENT_FNVAL=4048; PVID=1; rpdid=0zbfAHLRGX|SZphyhws|WUl|3w1T0GiA; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjk3Njk1NzcsImlhdCI6MTcyOTUxMDMxNywicGx0IjotMX0.HaW4EttkT5FMw0uXP58t3_QcVVOsEbEAUmiX7ml0O04; bili_ticket_expires=1729769517; bp_t_offset_1981795713=990728605908598784; home_feed_column=4; browser_resolution=867-911; b_lsid=546BC6B7_192AEE3EA93; SESSDATA=ea1d2d0f%2C1745063048%2Ce9e2f%2Aa2CjCUu2uutQOD-_WoUtXFX0qvThDnczNvFa4VjniyjEVug8J1EwgMDFII7BEuEana2xISVjI4b2ZBZ24wX2hydnh2OEVSMGVGVEhBT2ZDYTBIME9OV0RjN3BpR1ZNMW5SdGFSNG5KcmxTQ04zV1VOaG83dW84dG5aVTJBTGVXbENGaF9reko1c1pnIIEC; bili_jct=1c0cd49c6242ac1bc1dcbaa6cc867577; DedeUserID=1981795713; DedeUserID__ckMd5=929fdfd993cc3bbd; sid=mc49w42k"
+cookie = "buvid3=6F3D3E00-9BA4-C8A7-D410-97E6E30138D752529infoc; b_nut=1707920652; _uuid=E7...."
 
 while True:
     opt = input("请输入下载类型（1-按用户 2-按视频）: ")
