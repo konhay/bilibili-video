@@ -1,2 +1,2 @@
-# bilibili_video
-crawl and download bilibili video from website
+# bilibili-video
+Crawl and download bilibili video from website
