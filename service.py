@@ -24,7 +24,7 @@ while True:
 
     if opt == "1":
         user = input("请输入用户编号: ")
-        print("开始挖掘她的全部视频：", user)
+        print("开始抽取TA的全部视频：", user)
 
         # get video url
         options = webdriver.ChromeOptions()
